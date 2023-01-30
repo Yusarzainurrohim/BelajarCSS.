@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cambria', Sans-Serif;
+}
+
+.bg{
+     background-image: url('background.jpg');
+}
+
+.photo {
+     width: 150px;
+     height: 150px;
+}
